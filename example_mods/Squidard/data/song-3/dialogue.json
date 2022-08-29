@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh my god my grieieieialfdined os no logner spongebob"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "squidard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro stfu stop saying spelling errors and expect it to be funny, you've been doing it litterally the entire mod istfg"
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "                                                                 ok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "damn bro i cant believe you let him diss you like that i wouldn't let that slide if i were you"
+		}
+	]
+}

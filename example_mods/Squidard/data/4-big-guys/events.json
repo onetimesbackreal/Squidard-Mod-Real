@@ -1,0 +1,226 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Health Drain",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"Screen Shake",
+						"1, 0.15",
+						"1, 1"
+					]
+				]
+			],
+			[
+				200,
+				[
+					[
+						"Kaboom",
+						"0.5",
+						"1"
+					],
+					[
+						"KonekoDistract",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"2.95",
+						"45"
+					]
+				]
+			],
+			[
+				48700,
+				[
+					[
+						"Screen Shake",
+						"1, 1",
+						"1, 1"
+					]
+				]
+			],
+			[
+				50200,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				50500,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				50700,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				50900,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51300,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51400,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51500,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51700,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				51800,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52100,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52200,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52400,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				52600,
+				[
+					[
+						"Open Text File",
+						"GurtMan",
+						""
+					]
+				]
+			],
+			[
+				53500,
+				[
+					[
+						"Change Health Drain",
+						"1000000000000000000",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Squidard.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SquidTalkLoop0000" x="0" y="0" width="325" height="831" frameX="-40" frameY="-42" frameWidth="368" frameHeight="885"/>
+	<SubTexture name="SquidTalkLoop0001" x="0" y="0" width="325" height="831" frameX="-30" frameY="-51" frameWidth="368" frameHeight="885"/>
+	<SubTexture name="SquidTalkLoop0002" x="0" y="0" width="325" height="831" frameX="-43" frameY="-54" frameWidth="368" frameHeight="885"/>
+	<SubTexture name="SquidTalkLoop0003" x="325" y="0" width="325" height="831" frameX="0" frameY="-39" frameWidth="368" frameHeight="885"/>
+	<SubTexture name="SquidTalkLoop0004" x="650" y="0" width="325" height="831" frameX="-37" frameY="0" frameWidth="368" frameHeight="885"/>
+	<SubTexture name="SquidTalkLoop0005" x="975" y="0" width="325" height="831" frameX="-40" frameY="-42" frameWidth="368" frameHeight="885"/>
+</TextureAtlas>

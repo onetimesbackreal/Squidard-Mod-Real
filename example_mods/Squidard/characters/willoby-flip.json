@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				231,
+				-153
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				775,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-40,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-30,
+				-220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WillobyByers",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "willoby",
+	"flip_x": true,
+	"healthbar_colors": [
+		148,
+		61,
+		28
+	],
+	"camera_position": [
+		700,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

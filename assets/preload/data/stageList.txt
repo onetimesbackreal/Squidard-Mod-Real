@@ -1,0 +1,14 @@
+stage
+stageCorrupted
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolTimmy
+schoolEvil
+tank
+blocco
+DaVoid
+gurtStage

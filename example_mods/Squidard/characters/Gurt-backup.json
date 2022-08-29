@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-373
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle_Real"
+		},
+		{
+			"offsets": [
+				80,
+				-382
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				1
+			],
+			"name": "Idle_Real"
+		},
+		{
+			"offsets": [
+				0,
+				-420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				1
+			],
+			"name": "Idle_Real"
+		},
+		{
+			"offsets": [
+				0,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				1
+			],
+			"name": "Idle_Real"
+		},
+		{
+			"offsets": [
+				-133,
+				-382
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				1
+			],
+			"name": "Idle_Real"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gurt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Gurt",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		31,
+		57
+	],
+	"camera_position": [
+		-180,
+		460
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

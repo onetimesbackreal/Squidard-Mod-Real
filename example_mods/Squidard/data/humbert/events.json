@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				35235.294117647,
+				[
+					[
+						"Change Character",
+						"1",
+						"Humbert"
+					],
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"25"
+					],
+					[
+						"Hud Fade",
+						"2",
+						"1000000000"
+					],
+					[
+						"Flash Camera",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				35294.1176470588,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				67882.3529411765,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					],
+					[
+						"Kaboom",
+						"8",
+						"8"
+					],
+					[
+						"Change Character",
+						"0",
+						"PlainFace"
+					]
+				]
+			]
+		]
+	}
+}

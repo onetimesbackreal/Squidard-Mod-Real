@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpongeFly.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleRise0000" x="0" y="0" width="432" height="1119" frameX="-128" frameY="-131" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0001" x="432" y="0" width="516" height="1250" frameX="-44" frameY="0" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0002" x="948" y="0" width="440" height="993" frameX="-120" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0003" x="1388" y="0" width="560" height="1084" frameX="0" frameY="-166" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0004" x="1948" y="0" width="493" height="993" frameX="-67" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0005" x="2441" y="0" width="432" height="1040" frameX="-128" frameY="-210" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0006" x="2873" y="0" width="516" height="1073" frameX="-44" frameY="-177" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0007" x="3389" y="0" width="440" height="993" frameX="-120" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0008" x="3829" y="0" width="560" height="1084" frameX="0" frameY="-166" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0009" x="4389" y="0" width="493" height="993" frameX="-67" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0010" x="4882" y="0" width="432" height="1040" frameX="-128" frameY="-210" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0011" x="5314" y="0" width="516" height="1073" frameX="-44" frameY="-177" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0012" x="5830" y="0" width="440" height="993" frameX="-120" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0013" x="6270" y="0" width="560" height="1084" frameX="0" frameY="-166" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0014" x="6830" y="0" width="493" height="993" frameX="-67" frameY="-257" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="IdleRise0015" x="7323" y="0" width="432" height="1040" frameX="-128" frameY="-210" frameWidth="560" frameHeight="1250"/>
+	<SubTexture name="Rise0000" x="7755" y="0" width="432" height="634" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0001" x="0" y="1250" width="432" height="637" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0002" x="432" y="1250" width="432" height="646" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0003" x="864" y="1250" width="432" height="659" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0004" x="1296" y="1250" width="432" height="672" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0005" x="1728" y="1250" width="432" height="684" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0006" x="2160" y="1250" width="432" height="693" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0007" x="2592" y="1250" width="432" height="697" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0008" x="3024" y="1250" width="432" height="692" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0009" x="3456" y="1250" width="432" height="678" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0010" x="3888" y="1250" width="432" height="651" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0011" x="4320" y="1250" width="432" height="634" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0012" x="4752" y="1250" width="432" height="634" frameX="0" frameY="-548" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0013" x="5184" y="1250" width="432" height="646" frameX="0" frameY="-536" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0014" x="5616" y="1250" width="432" height="744" frameX="0" frameY="-438" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0015" x="6048" y="1250" width="432" height="860" frameX="0" frameY="-322" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0016" x="6480" y="1250" width="432" height="959" frameX="0" frameY="-223" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0017" x="6912" y="1250" width="432" height="1037" frameX="0" frameY="-145" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0018" x="7344" y="1250" width="432" height="1095" frameX="0" frameY="-87" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0019" x="0" y="2345" width="432" height="1136" frameX="0" frameY="-46" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0020" x="432" y="2345" width="432" height="1163" frameX="0" frameY="-19" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0021" x="864" y="2345" width="432" height="1178" frameX="0" frameY="-4" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0022" x="1296" y="2345" width="432" height="1182" frameX="0" frameY="0" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0023" x="1728" y="2345" width="432" height="1179" frameX="0" frameY="-3" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0024" x="2160" y="2345" width="432" height="1170" frameX="0" frameY="-12" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0025" x="2592" y="2345" width="432" height="1158" frameX="0" frameY="-24" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0026" x="3024" y="2345" width="432" height="1144" frameX="0" frameY="-38" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0027" x="3456" y="2345" width="432" height="1132" frameX="0" frameY="-50" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0028" x="3888" y="2345" width="432" height="1123" frameX="0" frameY="-59" frameWidth="432" frameHeight="1245"/>
+	<SubTexture name="Rise0029" x="4320" y="2345" width="432" height="1119" frameX="0" frameY="-63" frameWidth="432" frameHeight="1245"/>
+</TextureAtlas>

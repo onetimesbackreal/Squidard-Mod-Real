@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				278,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				277,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				282,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				278,
+				418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				277,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ZeSpy",
+	"position": [
+		160,
+		70
+	],
+	"healthicon": "Spy",
+	"flip_x": true,
+	"healthbar_colors": [
+		68,
+		75,
+		85
+	],
+	"camera_position": [
+		-390,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

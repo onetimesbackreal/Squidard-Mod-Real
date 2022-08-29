@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				198,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				198,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				198,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				198,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				198,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SquidardAltScary",
+	"position": [
+		160,
+		70
+	],
+	"healthicon": "squidManDuo",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		245,
+		109
+	],
+	"camera_position": [
+		-260,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

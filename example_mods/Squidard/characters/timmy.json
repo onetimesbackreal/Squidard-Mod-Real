@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SpawnFrey",
+			"indices": [],
+			"name": "SpawnFrey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Timmy",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "Timmy",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		205,
+		179
+	],
+	"camera_position": [
+		-240,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

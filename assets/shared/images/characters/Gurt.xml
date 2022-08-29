@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gurt.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle_Real0000" x="0" y="0" width="218" height="201" frameX="-37" frameY="-2" frameWidth="270" frameHeight="224"/>
+	<SubTexture name="Idle_Real0001" x="218" y="0" width="218" height="201" frameX="-33" frameY="-9" frameWidth="270" frameHeight="224"/>
+	<SubTexture name="Idle_Real0002" x="436" y="0" width="219" height="201" frameX="-51" frameY="0" frameWidth="270" frameHeight="224"/>
+	<SubTexture name="Idle_Real0003" x="655" y="0" width="218" height="201" frameX="0" frameY="-16" frameWidth="270" frameHeight="224"/>
+	<SubTexture name="Idle_Real0004" x="0" y="201" width="218" height="201" frameX="-33" frameY="-23" frameWidth="270" frameHeight="224"/>
+	<SubTexture name="Idle_Real0005" x="218" y="201" width="218" height="201" frameX="-37" frameY="-2" frameWidth="270" frameHeight="224"/>
+</TextureAtlas>

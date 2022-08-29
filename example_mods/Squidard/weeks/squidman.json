@@ -1,0 +1,50 @@
+{
+	"storyName": "omg squidard WEEEEEK",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "squid",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"squid-games",
+			"SquidMan",
+			[
+				46,
+				113,
+				255
+			]
+		],
+		[
+			"sqod",
+			"SquidMan",
+			[
+				46,
+				113,
+				255
+			]
+		],
+		[
+			"song-3",
+			"squidManDuo",
+			[
+				180,
+				213,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"squid",
+		"squid",
+		"squid"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Squidard"
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ARTNOTE_splashes.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note0-10000" x="0" y="0" width="219" height="214" frameX="-24" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-10001" x="219" y="0" width="239" height="215" frameX="-30" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-10002" x="458" y="0" width="273" height="220" frameX="-12" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-10003" x="0" y="220" width="306" height="254"/>
+	<SubTexture name="note0-20000" x="306" y="220" width="219" height="214" frameX="-63" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-20001" x="525" y="220" width="239" height="215" frameX="-37" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-20002" x="0" y="474" width="273" height="220" frameX="-21" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note0-20003" x="273" y="474" width="306" height="254"/>
+	<SubTexture name="note1-10000" x="0" y="0" width="219" height="214" frameX="-24" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-10001" x="219" y="0" width="239" height="215" frameX="-30" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-10002" x="458" y="0" width="273" height="220" frameX="-12" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-10003" x="0" y="220" width="306" height="254"/>
+	<SubTexture name="note1-20000" x="306" y="220" width="219" height="214" frameX="-63" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-20001" x="525" y="220" width="239" height="215" frameX="-37" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-20002" x="0" y="474" width="273" height="220" frameX="-21" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note1-20003" x="273" y="474" width="306" height="254"/>
+	<SubTexture name="note2-10000" x="0" y="0" width="219" height="214" frameX="-24" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-10001" x="219" y="0" width="239" height="215" frameX="-30" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-10002" x="458" y="0" width="273" height="220" frameX="-12" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-10003" x="0" y="220" width="306" height="254"/>
+	<SubTexture name="note2-20000" x="306" y="220" width="219" height="214" frameX="-63" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-20001" x="525" y="220" width="239" height="215" frameX="-37" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-20002" x="0" y="474" width="273" height="220" frameX="-21" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note2-20003" x="273" y="474" width="306" height="254"/>
+	<SubTexture name="note3-10000" x="0" y="0" width="219" height="214" frameX="-24" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-10001" x="219" y="0" width="239" height="215" frameX="-30" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-10002" x="458" y="0" width="273" height="220" frameX="-12" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-10003" x="0" y="220" width="306" height="254"/>
+	<SubTexture name="note3-20000" x="306" y="220" width="219" height="214" frameX="-63" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-20001" x="525" y="220" width="239" height="215" frameX="-37" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-20002" x="0" y="474" width="273" height="220" frameX="-21" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note3-20003" x="273" y="474" width="306" height="254"/>
+</TextureAtlas>

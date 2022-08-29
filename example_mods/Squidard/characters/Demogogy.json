@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				420,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				380,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				250,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				180,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				301,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Demogogy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "demogogy",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		34,
+		29
+	],
+	"camera_position": [
+		-440,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

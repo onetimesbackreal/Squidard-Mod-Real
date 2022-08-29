@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				278,
+				680
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				372,
+				141
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				198,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				612
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Rise",
+			"indices": [],
+			"name": "Rise"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SpongeFLy",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "squidManDuo",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		245,
+		109
+	],
+	"camera_position": [
+		-450,
+		-690
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

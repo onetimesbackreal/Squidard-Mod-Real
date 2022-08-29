@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Qodzilla.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="QodRUn0000" x="0" y="0" width="845" height="780" frameX="0" frameY="0" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0001" x="845" y="0" width="830" height="785" frameX="-12" frameY="0" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0002" x="1675" y="0" width="720" height="810" frameX="-102" frameY="-2" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0003" x="2395" y="0" width="397" height="781" frameX="-358" frameY="-58" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0004" x="2792" y="0" width="397" height="781" frameX="-358" frameY="-58" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0005" x="3189" y="0" width="720" height="809" frameX="-102" frameY="-3" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0006" x="0" y="810" width="830" height="785" frameX="-12" frameY="0" frameWidth="845" frameHeight="839"/>
+	<SubTexture name="QodRUn0007" x="830" y="810" width="845" height="780" frameX="0" frameY="0" frameWidth="845" frameHeight="839"/>
+</TextureAtlas>

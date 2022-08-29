@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh my god we're in ivikbini bottom omg bro i mean girlfirend from fleeting nightmare foils"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Squidard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, it is me squidard, i want tyou to leave my house noww!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Squidard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Grrrrr. i will now invoke the 201203101300130133th,\\nas i enact revenge on these troublesome CHILDRENHAHAIMSAIDITBEANGRYHAHAp\\nplease go the next like ppppppppppp"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "wow i cant beleive you called me a kid im so sad rn waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaaaaaaaaaaaaaaaaaaOhmygodthelagaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaa"
+		}
+	]
+}

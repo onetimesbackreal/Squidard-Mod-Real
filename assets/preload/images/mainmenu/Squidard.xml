@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Squidard.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleSquid instance 10000" x="0" y="0" width="753" height="437" frameX="0" frameY="-282" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10001" x="753" y="0" width="730" height="588" frameX="-23" frameY="-131" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10002" x="1483" y="0" width="600" height="668" frameX="-153" frameY="-51" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10003" x="2083" y="0" width="362" height="719" frameX="-391" frameY="0" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10004" x="2445" y="0" width="512" height="608" frameX="-472" frameY="-111" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10005" x="2957" y="0" width="354" height="537" frameX="-472" frameY="-182" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10006" x="3311" y="0" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10007" x="3592" y="0" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10008" x="0" y="719" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10009" x="281" y="719" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10010" x="562" y="719" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10011" x="843" y="719" width="281" height="635" frameX="-472" frameY="-84" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10012" x="1124" y="719" width="418" height="588" frameX="-335" frameY="-131" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10013" x="1542" y="719" width="603" height="451" frameX="-150" frameY="-268" frameWidth="984" frameHeight="719"/>
+	<SubTexture name="IdleSquid instance 10014" x="2145" y="719" width="753" height="437" frameX="0" frameY="-282" frameWidth="984" frameHeight="719"/>
+</TextureAtlas>

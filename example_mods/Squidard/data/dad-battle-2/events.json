@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				9974.02597402598,
+				[
+					[
+						"Change Character",
+						"1",
+						"RobloxGuy"
+					]
+				]
+			],
+			[
+				10597.4025974026,
+				[
+					[
+						"Change Character",
+						"1",
+						"RobloxGuy"
+					]
+				]
+			],
+			[
+				12467.5324675325,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad"
+					]
+				]
+			],
+			[
+				16207.7922077922,
+				[
+					[
+						"Flash Camera",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				25753.2467532467,
+				[
+					[
+						"Change Character",
+						"0",
+						"RobloxGuy"
+					]
+				]
+			],
+			[
+				29610.3896103896,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

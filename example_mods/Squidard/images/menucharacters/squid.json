@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Idle_Menu_Squidward0",
+	"idle_anim": "Idle_Menu_Squidward0",
+	"position": [
+		370,
+		334
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "Menu_Squidard"
+}

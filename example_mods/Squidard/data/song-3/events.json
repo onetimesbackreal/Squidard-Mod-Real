@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Kaboom",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"SquidardDuo2"
+					]
+				]
+			],
+			[
+				114629.268292683,
+				[
+					[
+						"Change Character",
+						"1",
+						"SquidardDuo"
+					]
+				]
+			]
+		]
+	}
+}

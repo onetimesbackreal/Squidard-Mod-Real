@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				278,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				372,
+				121
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				198,
+				44
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				43
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "2Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				351,
+				43
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "2Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				43
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "2Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				43
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "2Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SquidManAlt",
+	"position": [
+		160,
+		70
+	],
+	"healthicon": "squidManDuo",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		245,
+		109
+	],
+	"camera_position": [
+		-440,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				55875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"1"
+					],
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				66750,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}

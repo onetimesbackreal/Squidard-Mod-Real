@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sponge.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleSponge instance 10000" x="0" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10001" x="257" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10002" x="514" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10003" x="771" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10004" x="1028" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10005" x="1285" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10006" x="1542" y="0" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10007" x="0" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10008" x="257" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10009" x="514" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10010" x="771" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10011" x="1028" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10012" x="1285" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10013" x="1542" y="462" width="257" height="462"/>
+	<SubTexture name="IdleSponge instance 10014" x="0" y="924" width="257" height="462"/>
+</TextureAtlas>

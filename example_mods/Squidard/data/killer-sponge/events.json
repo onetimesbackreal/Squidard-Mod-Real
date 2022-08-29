@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				18279.0697674419,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29023.2558139535,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				44651.1627906977,
+				[
+					[
+						"Blammed Lights",
+						"3149942842804280042908420842804208084242",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-breakdown"
+					]
+				]
+			],
+			[
+				48976.7441860465,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			],
+			[
+				49116.2790697675,
+				[
+					[
+						"Play Animation",
+						"GetUp",
+						"Dad"
+					]
+				]
+			],
+			[
+				65860.4651162791,
+				[
+					[
+						"Change Character",
+						"BF",
+						"invisible-man"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 215,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Killer-Sponge"
+	}
+}

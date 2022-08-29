@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-114,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-8
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				-11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-52
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-59
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-3
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Stressed Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-17
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Stressed Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND_tim",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-170,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
